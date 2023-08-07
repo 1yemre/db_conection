@@ -30,7 +30,7 @@ namespace Veri_cekme
                 try
                 {
                      connection.Open();
-                    Console.WriteLine("Bağlantı sağlandı");
+                    Console.WriteLine("Baglanti sağlandi");
                 }
                 catch (Exception ex)
                 {
@@ -57,7 +57,7 @@ namespace Veri_cekme
                 try
                 {
                     connection.Open();
-                    Console.WriteLine("Bağlantı sağlandı");
+                    Console.WriteLine("Baglanti sağlandi");
                 }
                 catch (Exception ex)
                 {
